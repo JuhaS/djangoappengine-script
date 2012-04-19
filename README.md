@@ -23,7 +23,7 @@ Script to set up all needed modules to get django-appengine project running.
 It follows the process from : http://www.allbuttonspressed.com/projects/djangoappengine
 
  * It first creates new directory (your argument)
- * Then itDownloads following repositories:
+ * Then it downloads (clones) following repositories:
    * django-nonrel 
    * djangoappengine 
    * djangotoolbox 
