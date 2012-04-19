@@ -5,14 +5,16 @@ Setup
 -----
 
  * Copy script to a place included in $PATH, for example /usr/bin
+ * Give script execution rights with "chmod +x create_gaedj.sh"
  * Mercurial needs to be installed, do it with "sudo apt-get install mercurial"
+ * Have Appengine SDK installed (https://developers.google.com/appengine/downloads)
 
 Usage
 -----
 
  * create_gaedj.sh newproject
-
- The created project will be under newly created folder newproject. You can go there and run "./manage.py runserver".
+ * cd newproject
+ * ./manage.py runserver (just to test it works)
 
 
 What is does
