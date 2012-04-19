@@ -51,4 +51,4 @@ rm -rf djangotoolbox_dir
 rm -rf django-autoload
 rm -rf django-dbindexer
 rm -rf django-testapp
-
+cd ..
